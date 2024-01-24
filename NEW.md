@@ -1,1 +1,0 @@
-nu new file cho
