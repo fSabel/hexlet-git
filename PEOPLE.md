@@ -1,1 +1,2 @@
 Haskell Curry
+Jonny Noksvil
